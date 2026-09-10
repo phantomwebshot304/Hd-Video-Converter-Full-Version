@@ -234,3 +234,6 @@ This repository serves as the official landing page for HD Video Converter. The 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of HD Video Converter today!**
+
+---
+**Last updated:** 2026-09-10 23:58:16 UTC
